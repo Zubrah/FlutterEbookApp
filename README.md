@@ -1,6 +1,6 @@
-# 📖📖 Flutter eBook App [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# 📖📖 Flutter eBook App 
 
-![Client Build](https://github.com/JideGuru/FlutterEbookApp/workflows/Client%20Build/badge.svg)  [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+
 
 A simple Flutter app to Read and Download books.
 The Books included in the app are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain) (Expired Copyright and completely free).
@@ -57,8 +57,8 @@ Please star⭐ the repo if you like what you see😉.
 
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+- Zubeir Ayyub Msemo
 
 
 ## 🔖 LICENCE
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
+MIT
